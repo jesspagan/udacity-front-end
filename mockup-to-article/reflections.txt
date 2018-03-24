@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I learned about tags that are deprecated and the new versions of those.
+* The lessons have been a reflesher of things I already new, so mostly everything.
+* Since the Text Editor can render the HTML on the fly while editing, switching 
+  to browser was an extra step that I felt I want to avoid.
+* All the documentation has been very useful.
